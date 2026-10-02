@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+
+# IDE and user settings
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local credentials and agent settings
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
